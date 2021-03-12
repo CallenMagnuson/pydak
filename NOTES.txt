@@ -1,0 +1,11 @@
+see example script for how to call data.
+
+daktronics folder copied to Python/Lib
+
+Run via cmd:
+python dakexample.py
+
+To-Do:
+-Send Data as JSON
+-Figure out how to recover from Serial being disconnected
+-Figure out how to automatically define the sport?
